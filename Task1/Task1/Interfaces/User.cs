@@ -24,6 +24,10 @@ namespace Task1.Interfaces
             {
                 _password = password;
             }
+            else 
+            {
+                console.writeline("Password telebleri odenmir");
+               } 
         }
         public bool PasswordChecker(string password)
         {
