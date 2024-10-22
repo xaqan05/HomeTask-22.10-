@@ -24,10 +24,10 @@ namespace Task1.Interfaces
             {
                 _password = password;
             }
-            else 
+            else
             {
-                console.writeline("Password telebleri odenmir");
-               } 
+                Console.WriteLine("Password telebleri odemir");
+            }
         }
         public bool PasswordChecker(string password)
         {
