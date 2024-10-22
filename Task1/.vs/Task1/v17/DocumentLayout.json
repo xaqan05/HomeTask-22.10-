@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Xaqan\\Desktop\\Programming\\C#\\HomeTask(22.10)\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43859CB2-B21F-4389-8922-B87B27035F3E}|Task1\\Task1.csproj|c:\\users\\xaqan\\desktop\\programming\\c#\\hometask(22.10)\\task1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43859CB2-B21F-4389-8922-B87B27035F3E}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43859CB2-B21F-4389-8922-B87B27035F3E}|Task1\\Task1.csproj|c:\\users\\xaqan\\desktop\\programming\\c#\\hometask(22.10)\\task1\\task1\\interfaces\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43859CB2-B21F-4389-8922-B87B27035F3E}|Task1\\Task1.csproj|solutionrelative:task1\\interfaces\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43859CB2-B21F-4389-8922-B87B27035F3E}|Task1\\Task1.csproj|c:\\users\\xaqan\\desktop\\programming\\c#\\hometask(22.10)\\task1\\task1\\interfaces\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43859CB2-B21F-4389-8922-B87B27035F3E}|Task1\\Task1.csproj|solutionrelative:task1\\interfaces\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Xaqan\\Desktop\\Programming\\C#\\HomeTask(22.10)\\Task1\\Task1\\Interfaces\\User.cs",
+              "RelativeDocumentMoniker": "Task1\\Interfaces\\User.cs",
+              "ToolTip": "C:\\Users\\Xaqan\\Desktop\\Programming\\C#\\HomeTask(22.10)\\Task1\\Task1\\Interfaces\\User.cs",
+              "RelativeToolTip": "Task1\\Interfaces\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA9wBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:15:31.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Iaccount.cs",
+              "DocumentMoniker": "C:\\Users\\Xaqan\\Desktop\\Programming\\C#\\HomeTask(22.10)\\Task1\\Task1\\Interfaces\\Iaccount.cs",
+              "RelativeDocumentMoniker": "Task1\\Interfaces\\Iaccount.cs",
+              "ToolTip": "C:\\Users\\Xaqan\\Desktop\\Programming\\C#\\HomeTask(22.10)\\Task1\\Task1\\Interfaces\\Iaccount.cs",
+              "RelativeToolTip": "Task1\\Interfaces\\Iaccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:14:47.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Xaqan\\Desktop\\Programming\\C#\\HomeTask(22.10)\\Task1\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\Xaqan\\Desktop\\Programming\\C#\\HomeTask(22.10)\\Task1\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:53:11.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
